@@ -2,9 +2,9 @@ Dich zieht es zu dem Ort, von dem aus unser Land gelenkt wird. Zufällig siehst 
 
 <img src="img/regierungsviertel.jpg">
 
-<a href="/chinesen">
+<a href="/behnam.github.io/chinesen">
 <button>Schnell zu einer Gruppe Chinesen stellen</button>
 </a>
-<a href="/sudanese">
+<a href="/behnam.github.io/sudanese">
 <button>Habe eh Hunger, Sudanese</button>
 </a>

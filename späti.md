@@ -2,6 +2,6 @@ Späti cornen ist angesagt. Nachdem du 22 Sterni und 16 Bärwurz mitnehmen wills
 
 <img src="img/späti.jpg">
 
-<a href="/">
+<a href="/behnam.github.io/">
 <button>Zurück zum Anfang</button>
 </a>

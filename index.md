@@ -3,9 +3,9 @@ Du wachst absolout verkatert am Hauptbahnhof Berlin im Zug auf, kannst dich nur 
 Als erstes must du dich entscheiden, wie du hier weg kommst.
 
 <img src="img/bahnhof.jpeg">
-<a href="/fahrrad.html">
+<a href="/behnam.github.io/fahrrad">
 <button>Fahrrad nehmen</button>
 </a>
-<a href="/carsharing.html">
+<a href="/behnam.github.io/carsharing.html">
 <button>Carsharing nehmen</button>
 </a>

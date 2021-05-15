@@ -2,9 +2,9 @@ Vielleicht wird dich ein bisschen passiv kiffen ein bisschen aufmuntern. Du fäh
 Nachdem du dich über die neuesten Trends auf dem Steinmark ausgetauscht hast und auf dein Leben wieder klarkommst, hast du Lust noch was zu unternehmen.
 
 <img src="img/görli.jpg">
-<a href="/späti">
+<a href="/behnam.github.io/späti">
 <button>Späti cornern</button>
 </a>
-<a href="/öffis">
+<a href="/behnam.github.io/öffis">
 <button>Öffis chillen</button>
 </a>

@@ -2,6 +2,6 @@ Jetzt nochmal ins Planetarium. Du siehst krasse Sternkonstellationen, komische F
 
 <img src="img/planetarium.jpeg">
 
-<a href="/">
+<a href="/behnam.github.io/">
 <button>Zurück zum Anfang</button>
 </a>

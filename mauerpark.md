@@ -3,9 +3,9 @@ Das entspannt dich, und du fühlst dich wieder bereit für ein bisschen Unterhal
 
 <img src="img/mauerpark.jpg">
 
-<a href="/berghain">
+<a href="/behnam.github.io/berghain">
 <button>Berghain anstellen</button>
 </a>
-<a href="/planetarium">
+<a href="/behnam.github.io/planetarium">
 <button>Planetarium gehen</button>
 </a>

@@ -2,6 +2,6 @@ Dein unendliches Craving nach Erdnusssoße bringt dich auf die Idee, zu Basmah z
 
 <img src="img/sudanese.jpeg">
 
-<a href="/">
+<a href="/behnam.github.io/">
 <button>Zurück zum Anfang</button>
 </a>

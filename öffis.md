@@ -2,6 +2,6 @@ Im Ring einschlafen, das ist wonach du dich gerade sehnst. Du schnappst dir noch
 
 <img src="img/öffis.jpeg">
 
-<a href="/">
+<a href="/behnam.github.io/">
 <button>Zurück zum Anfang</button>
 </a>

@@ -3,6 +3,6 @@ Dort lernst du Basti kennen, der direkt mit dir ein Shirt teilen will - während
 
 <img src="img/neukölln.jpg">
 
-<a href="/">
+<a href="/behnam.github.io/">
 <button>Zurück zum Anfang</button>
 </a>
